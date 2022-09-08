@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/diana/AndroidStudioProjects/Kotlin Course/Todo List App/app/src/main/res/layout/activity_main.xml" value="0.3625" />
-        <entry key="..\:/Users/diana/AndroidStudioProjects/Kotlin Course/Todo List App/app/src/main/res/layout/item_todo.xml" value="0.3625" />
+        <entry key="..\:/Users/diana/AndroidStudioProjects/Kotlin Course/LISTIT App/LISTIT/app/src/main/res/layout/activity_main.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/diana/AndroidStudioProjects/Kotlin Course/LISTIT App/LISTIT/app/src/main/res/layout/item_todo.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/diana/AndroidStudioProjects/Kotlin Course/LISTIT App/app/src/main/res/layout/activity_main.xml" value="0.30498533724340177" />
+        <entry key="..\:/Users/diana/AndroidStudioProjects/Kotlin Course/LISTIT App/app/src/main/res/layout/item_todo.xml" value="0.18541666666666667" />
       </map>
     </option>
   </component>

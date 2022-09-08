@@ -1,4 +1,4 @@
-package com.diana_ukrainsky.todolist
+package com.diana_ukrainsky.listit
 
 import org.junit.Test
 
